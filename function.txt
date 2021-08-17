@@ -1,1 +1,5 @@
 hello world
+<<<<<<< HEAD
+=======
+japan
+>>>>>>> err01
